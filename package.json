@@ -9,6 +9,7 @@
   "author": "quangnt",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.26.0",
     "request": "^2.88.2",
     "yargs": "^17.3.1"
   }
